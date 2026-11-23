@@ -3,7 +3,7 @@
 A production-style admin dashboard for a small e-commerce operation, built to demonstrate secure
 authentication architecture, role-based access control, and a clean React front end.
 
-**Live demo:** https://nexus-admin.vercel.app
+**Live demo:** https://nexus-admin-two-alpha.vercel.app
 **Demo accounts (seeded demo data only):** `admin@nexus.dev` or `viewer@nexus.dev` — password `NexusDemo!2026`
 
 > The hosted demo runs on serverless functions with an in-memory data store, so data resets
